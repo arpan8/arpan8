@@ -26,7 +26,7 @@ I am currently expanding my expertise to include ***microservices, design patter
 
 In addition to my development skills, I am proficient in a range of DevOps tools and services such as ***Docker, AWS (S3, SES, SQS, AWS Secrets Manager, Simple Workflow Service, Cognito, EC2), and NGINX***.
 
-At ***Codelogicx***, I leverage this diverse technical skill set to architect and implement scalable, high-performance solutions.
+At ***Codelogicx***, I leverage my diverse technical background to architect and implement scalable, high-performance solutions, contributing to the success of complex projects. My work is driven by a passion for technology and a commitment to excellence, ensuring robust and efficient outcomes for every endeavor.
 
 ## 🔗 Links
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://arpan8.github.io/)
@@ -59,6 +59,10 @@ At ***Codelogicx***, I leverage this diverse technical skill set to architect an
 
 - **NodeJs(Udemy)**
 
+## Blogs
+
+- [HapiJs Swagger Documentaion](https://medium.com/@arpanmajibally/hapi-js-swagger-documentation-4a94376ae665)
+- [HapiJs — Authentication with Swagger Documentation](https://medium.com/@arpanmajibally/hapi-js-authentication-with-swagger-documentation-3fe916e24280)
 
 ## FAQ
 
