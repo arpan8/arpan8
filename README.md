@@ -32,19 +32,19 @@ At ***Codelogicx***, I leverage this diverse technical skill set to architect an
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://arpan8.github.io/)
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arpan-maji-59579b147/)
 
-## Tech Stack
+## Skills
 
-**Client:** *React, Redux Toolkit*
+**Client:** ***React, Redux Toolkit***
 
-**Server:** *NodeJs, ExpressJs, HapiJs*
+**Server:** ***NodeJs, ExpressJs, HapiJs***
 
-**Tools:** *Git, Vscode, Redis, Docker, Swagger, Apache Kafka*
+**Tools:** ***Git, Vscode, Redis, Docker, Swagger, Apache Kafka***
 
-**AWS services:**  *S3 bucket, Secrets Manager, SQS, SES, Cognito, EC2*
+**AWS services:**  ***S3 bucket, Secrets Manager, SQS, SES, Cognito, EC2***
 
-**Database:** *MySQL, PostgresSQL, MongoDB, Redis*
+**Database:** ***MySQL, PostgresSQL, MongoDB, Redis***
 
-**Soft Skills:** *Problem-Solving, Collaboration, Communication, Adaptability*
+**Soft Skills:** ***Problem-Solving, Collaboration, Communication, Adaptability***
 
 ## Current scenario
 👩‍💻 I'm currently working on ***NodeJs, ReactJs***
@@ -64,7 +64,7 @@ At ***Codelogicx***, I leverage this diverse technical skill set to architect an
 
 #### Question: Ask me about back-end development
 
-## Authors
+## Author
 
 - [@arpan8](https://www.github.com/arpan8)
 
