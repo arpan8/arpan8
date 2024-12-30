@@ -49,7 +49,7 @@ At ***Codelogicx***, I leverage my diverse technical background to architect and
 ## Current scenario
 👩‍💻 I'm currently working on ***NodeJs, ReactJs***
 
-🧠 I'm currently learning ***Java, spring Boot, solving DSA problems in Leetcode/HackerRank***
+🧠 I'm currently learning ***AWS***
 
 ## Certification and training
 
@@ -63,6 +63,7 @@ At ***Codelogicx***, I leverage my diverse technical background to architect and
 
 - [HapiJs Swagger Documentaion](https://medium.com/@arpanmajibally/hapi-js-swagger-documentation-4a94376ae665)
 - [HapiJs — Authentication with Swagger Documentation](https://medium.com/@arpanmajibally/hapi-js-authentication-with-swagger-documentation-3fe916e24280)
+- [Efficient Joi validation](https://medium.com/@arpanmajibally/efficient-joi-validation-in-express-with-custom-middleware-409204e99507)
 
 ## FAQ
 
